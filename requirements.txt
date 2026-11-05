@@ -1,0 +1,19 @@
+# --- Base de données Oracle ---
+oracledb==2.2.0
+SQLAlchemy==2.0.30
+
+# --- Manipulation et export de données ---
+pandas==2.2.2
+openpyxl==3.1.2
+
+# --- Gestion d'encodage ---
+chardet==5.2.0
+
+# --- Gestion des variables d'environnement ---
+python-dotenv==1.0.1
+
+# --- Amélioration des logs / console ---
+colorama==0.4.6
+
+# --- (Optionnel) Excel plus rapide (utile pour gros volumes) ---
+xlsxwriter==3.2.0

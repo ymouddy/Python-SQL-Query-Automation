@@ -1,0 +1,137 @@
+[2025-10-15 21:21:25] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 21:21:25] ✅ Connecté avec succès à Oracle !
+[2025-10-15 21:21:25] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 21:22:09] ❌ Erreur dans test.sql : 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 21:22:09] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 21:26:18] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 21:26:18] ✅ Connecté avec succès à Oracle !
+[2025-10-15 21:26:18] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 21:27:04] ❌ Erreur dans test.sql : 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 21:27:04] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 21:46:53] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 21:46:53] ✅ Connecté avec succès à Oracle !
+[2025-10-15 21:46:53] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 21:46:53] ✅ Fichier lu avec succès en utf-8
+[2025-10-15 21:47:40] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 21:47:40] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 21:48:49] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 21:48:49] ✅ Connecté avec succès à Oracle !
+[2025-10-15 21:48:49] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 21:48:49] ✅ Fichier lu avec succès avec encodage utf-8
+[2025-10-15 21:49:35] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 21:49:35] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 21:59:27] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 21:59:27] ✅ Connecté avec succès à Oracle !
+[2025-10-15 21:59:27] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 21:59:27] ✅ Fichier lu avec succès avec encodage détecté : ascii
+[2025-10-15 22:00:17] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:00:17] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 22:12:40] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:12:40] ✅ Connecté avec succès à Oracle !
+[2025-10-15 22:12:40] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 22:12:40] ✅ Fichier lu avec succès avec encodage détecté : ascii
+[2025-10-15 22:13:25] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:13:25] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 22:18:03] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:18:03] ✅ Connecté avec succès à Oracle !
+[2025-10-15 22:18:03] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 22:18:03] ✅ Fichier lu avec succès avec encodage détecté : ascii
+[2025-10-15 22:18:48] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:18:48] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 22:38:43] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:39:03] ❌ Erreur critique de connexion : (oracledb.exceptions.OperationalError) DPY-6005: cannot connect to database (CONNECTION_ID=9tHcZHXGe+6cmROUloF4dA==).
+timed out
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-10-15 22:41:33] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:41:53] ❌ Erreur critique de connexion : (oracledb.exceptions.OperationalError) DPY-6005: cannot connect to database (CONNECTION_ID=fQSrdNrcjNbWr2o0Lr6GiA==).
+timed out
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-10-15 22:42:02] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:42:03] ✅ Connecté avec succès à Oracle !
+[2025-10-15 22:42:03] ▶️ Lecture et exécution de : test.sql
+[2025-10-15 22:42:03] ✅ Fichier lu avec succès avec encodage détecté : ascii
+[2025-10-15 22:42:56] ❌ Erreur dans test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:42:56] 🔒 Connexion Oracle fermée proprement.
+[2025-10-15 22:51:34] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:51:54] ❌ Erreur CRITIQUE de connexion/moteur : (oracledb.exceptions.OperationalError) DPY-6005: cannot connect to database (CONNECTION_ID=dQG1v+b72QiCXrGsCRl0hw==).
+timed out
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-10-15 22:52:10] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:52:11] ✅ Connecté avec succès à Oracle !
+[2025-10-15 22:52:11] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-15 22:52:11] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-15 22:52:11] ⏳ Exécution de la requête...
+[2025-10-15 22:53:01] ❌ Erreur critique lors du traitement de test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:53:01] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-15 22:57:16] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 22:57:16] ✅ Connecté avec succès à Oracle !
+[2025-10-15 22:57:16] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-15 22:57:16] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-15 22:57:16] ⏳ Exécution de la requête...
+[2025-10-15 22:58:05] ❌ Erreur critique lors du traitement de test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 22:58:05] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-15 23:06:49] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 23:06:50] ✅ Connecté avec succès à Oracle !
+[2025-10-15 23:06:50] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-15 23:06:50] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-15 23:06:50] ⏳ Exécution de la requête...
+[2025-10-15 23:07:53] ❌ Erreur critique lors du traitement de test.sql: 'utf-8' codec can't decode byte 0xdb in position 8: invalid continuation byte
+[2025-10-15 23:07:54] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-15 23:09:40] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 23:09:40] ✅ Connecté avec succès à Oracle !
+[2025-10-15 23:09:40] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-15 23:09:40] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-15 23:09:40] ⏳ Exécution de la requête...
+[2025-10-15 23:12:09] ⏳ Export de 1351165 lignes vers Excel...
+[2025-10-15 23:12:09] ❌ Erreur critique lors du traitement de test.sql: No module named 'xlsxwriter'
+[2025-10-15 23:12:09] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-15 23:13:23] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 23:13:24] ✅ Connecté avec succès à Oracle !
+[2025-10-15 23:13:24] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-15 23:13:24] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-15 23:13:24] ⏳ Exécution de la requête...
+[2025-10-15 23:15:12] ❌ Erreur critique lors du traitement de test.sql: (oracledb.exceptions.DatabaseError) DPY-4011: the database or network closed the connection
+[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+Help: https://python-oracledb.readthedocs.io/en/latest/user_guide/troubleshooting.html#dpy-4011
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+[2025-10-15 23:15:12] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-15 23:15:35] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-15 23:15:55] ❌ Erreur CRITIQUE de connexion/moteur : (oracledb.exceptions.OperationalError) DPY-6005: cannot connect to database (CONNECTION_ID=TGY1W996du9vFUh7MZVfTw==).
+timed out
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+[2025-10-16 11:05:16] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-16 11:05:17] ✅ Connecté avec succès à Oracle !
+[2025-10-16 11:05:17] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-16 11:05:17] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-16 11:05:17] ⏳ Exécution de la requête...
+[2025-10-16 11:07:09] ⏳ Export de 1351166 lignes vers Excel...
+[2025-10-16 11:07:09] ❌ Erreur critique lors du traitement de test.sql: This sheet is too large! Your sheet size is: 1351166, 199 Max sheet size is: 1048576, 16384
+[2025-10-16 11:07:09] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-16 11:09:47] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-16 11:09:47] ✅ Connecté avec succès à Oracle !
+[2025-10-16 11:09:47] 
+--- Démarrage de l'extraction : test.sql ---
+[2025-10-16 11:09:47] ✅ Fichier lu (test.sql) avec encodage détecté : ascii
+[2025-10-16 11:09:47] ⏳ Exécution de la requête...
+[2025-10-16 11:11:22] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-16 14:27:57] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-16 14:27:57] ✅ Connecté avec succès à Oracle !
+[2025-10-16 14:27:57] 
+🔒 Connexion Oracle fermée proprement.
+[2025-10-16 15:24:42] 🔌 Connexion à Oracle via SQLAlchemy...
+[2025-10-16 15:24:42] ✅ Connecté avec succès à Oracle !
+[2025-10-16 15:24:42] 
+🔒 Connexion Oracle fermée proprement.
